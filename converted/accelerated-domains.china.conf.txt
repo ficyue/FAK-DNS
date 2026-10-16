@@ -207,7 +207,6 @@
 [/01yun.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/01zenith.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/01zhuanche.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/01zk.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/020.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/020.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/020.xn--5tzm5g/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -4675,7 +4674,6 @@
 [/46d7940171014.beer/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/46eadc71881fb97a.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/46mlsv.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/46ps.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/46xs.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/4714da8871019.beer/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/471f94eab9784273.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -6654,7 +6652,6 @@
 [/6188cnc.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/618bg.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/618cj.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/618day.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/618ky.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/618tech.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/618waihui.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -6976,7 +6973,6 @@
 [/688dns.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/688wz.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/68955.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/68978.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/68apk.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/68bbq.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/68china.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -7172,7 +7168,6 @@
 [/701.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/703804.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/70524.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/706net.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/707.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/707598.xyz/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/707e518c610291.beer/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -7911,7 +7906,6 @@
 [/83666.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/83692.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/83753751.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/8379888.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/8383.vip/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/838413.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/838dz.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -9674,7 +9668,6 @@
 [/acingame.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/acirclea.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/acirno.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/acjw.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/acloud.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/acloudbaas.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/acloudrender.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -13176,7 +13169,6 @@
 [/awx1.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/awyerwu.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/awyx.xyz/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/ax196.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/ax1x.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/ax2nc4.ren/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/axatp.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -14315,7 +14307,6 @@
 [/bbfstore.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/bbfytsn.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/bbgdex.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/bbgsite.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/bbgstatic.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/bbguangcai.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/bbhou.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -17167,7 +17158,6 @@
 [/bsccdn.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/bsccdn.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/bscdns.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/bscdnweb.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/bscea.org/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/bscedge.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/bscgslb.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -19163,7 +19153,6 @@
 [/cdn-v.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/cdn.fun/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/cdn.me/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/cdn.samsung.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/cdn.shanghai.nyu.edu/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/cdn.show/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/cdn.vin/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -19777,7 +19766,6 @@
 [/cghhospital.org/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/cghospital.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/cgicop.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/cgiumuo.xyz/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/cgivz.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/cgjoy.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/cgjoy.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -23361,7 +23349,6 @@
 [/cnfeol.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/cnfg.cc/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/cnfia.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/cnfiberhome.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/cnfin.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/cnfina.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/cnfirst.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -24412,6 +24399,7 @@
 [/coremakingsolutions.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/corerain.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/corex-design.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
+[/corexpertdata.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/coreyun.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/corgichina.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/corlercar888.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -26673,7 +26661,6 @@
 [/dahetest.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/dahhxxttxs.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/dahongba.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/dahongtec.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/dahongtool.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/dahouduan.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/dahua-cpa.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -29600,7 +29587,6 @@
 [/downke.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/downkr.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/downkuai.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/download.microsoft.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/download.visualstudio.microsoft.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/download.windowsupdate.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/downloads.ltd/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -32941,7 +32927,6 @@
 [/faminuo.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/famobiotech.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/famousoffice.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/famoustone.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/famulei.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/fan-lun.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/fan-md.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -33375,7 +33360,6 @@
 [/fcnes.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/fcnode.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/fcpawn.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/fcpiao.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/fcpowerup.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/fcqjc.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/fcrc114.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -34372,7 +34356,6 @@
 [/flmgr.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/floatcamellia.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/floatingislandapps.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/floatmaze.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/flockypet.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/flomoapp.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/floorb2b.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -36967,7 +36950,6 @@
 [/gewu.vc/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/gewuer.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/gewuzhixiang.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/gexiao.me/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/gexiaocloud.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/gexinda.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/gexing.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -40937,7 +40919,6 @@
 [/gxzcpsw.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/gxzcs.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/gxzdsj.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/gxzdyg.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/gxzecai.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/gxzepu.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/gxzero.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -43661,7 +43642,6 @@
 [/heihei.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/heiheiyuyin.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/heihekeji.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/heijiao.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/heijiaovip.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/heilanhome.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/heilifun.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -44746,7 +44726,6 @@
 [/hk-vstart.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/hk-xin.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/hk.uy/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/hk0523.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/hk603.hk/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/hk8668.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/hk9.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -47057,7 +47036,6 @@
 [/huichongduo.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/huichuangjialife.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/huichuangzhanlan.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/huicx7.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/huida18.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/huidabbs.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/huidafrp.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -49021,7 +48999,6 @@
 [/ict88.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/ictbda.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/ictcsr.org/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/ictdns.icu/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/ictdns.store/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/ictdns.tech/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/ictehi.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -49663,7 +49640,6 @@
 [/ikjtao.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/ikjxc.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/ikmoo.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/ikncn.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/ikonfx.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/ikongjian.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/ikongjun.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -49976,7 +49952,6 @@
 [/imsyy.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/imtaweb.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/imtedge.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/imtics.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/imtmp.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/imtrwqjier3.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/imtuan.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -52991,7 +52966,6 @@
 [/jingsh.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/jingshibang.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/jingshibianhuren.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/jingshistudy.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/jingshizyy.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/jingshun-wl.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/jingshzh.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -55122,7 +55096,6 @@
 [/jufengcap.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/jufengcompany.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/jufenginfo.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/jufengwuxi.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/jufu.vip/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/jugao.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/jugezi.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -55317,7 +55290,6 @@
 [/junziboxue.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/junzimen.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/junziqian.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/junziyize.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/juooo.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/jupiterlauncher.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/jupup.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -58372,7 +58344,6 @@
 [/lamoton.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/lampbi.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/lampouomo.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/lamwatch.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/lamyu.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/lan-bridge.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/lan-lin.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -58389,7 +58360,6 @@
 [/lanchuanhuanbao.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/lancn.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/lancong.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/lanconvey.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/lancunwater.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/lancygroup.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/land136.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -66397,7 +66367,6 @@
 [/n802.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/n8soft.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/n9z.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/na.ci/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/naaln.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/nabel.cc/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/nabluemedia.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -66852,7 +66821,6 @@
 [/ncmtkj.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/ncmtr.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/ncnynl.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/ncogvki.xyz/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/ncpa-classic.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/ncpc.biz/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/ncpqh.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -70486,7 +70454,6 @@
 [/panso.pro/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/pansoso.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/pansou.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/pansousuo.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/pantherhealthcare.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/pantonechina.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/pantonecn.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -70893,7 +70860,6 @@
 [/penging.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/pengke.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/penglei.name/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/pengliao.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/pengpailaw.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/pengrl.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/pengrui-ssj.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -71077,7 +71043,6 @@
 [/phonecoolgame.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/phonegap.me/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/phonegap100.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/phonelinksoft.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/phonertech.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/phopic.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/phosun.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -71704,7 +71669,6 @@
 [/pomeloyun.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/pomoho.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/pondernext.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/ponging.store/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/ponkong.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/ponley.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/pontite.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -74941,7 +74905,6 @@
 [/qygbet381.vip/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/qygbet427.vip/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/qygjyey.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/qyhgsb.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/qyhl.vip/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/qyhr.org/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/qyhxy365.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -76150,7 +76113,6 @@
 [/rongba.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/rongbiz.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/rongbiz.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/rongbst.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/rongcfg.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/rongchain.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/rongchaodichan.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -78908,7 +78870,6 @@
 [/shanbotv.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/shancemall.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/shanchuangjiaoyu.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/shancui1688.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/shanda960.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/shandacasual.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/shandagames.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -81407,6 +81368,7 @@
 [/sireda.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/sirenyouxiang.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/sirfang.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
+[/siriser.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/sirweara.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/siryin.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/siscantech.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -81640,7 +81602,6 @@
 [/sk2w.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/skatehere.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/skcto.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/skd6.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/skd62.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/skdlabs.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/skeo.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -81758,7 +81719,6 @@
 [/skyworthnj.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/skyworthznxyj.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/skyxinli.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/skyxvpn.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/skyyin.org/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/skyzhan.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/skznsb.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -81799,6 +81759,7 @@
 [/slk1.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/slkg1949.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/sllai.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
+[/slldbs641.vip/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/sllngy.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/sllssrq.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/slodon.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -81907,7 +81868,6 @@
 [/smartxiantao.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/smartyao.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/smartyoke.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/smartyun8.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/smartzzx.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/smarun.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/smaryun.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -82638,7 +82598,6 @@
 [/soyo-dg.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/soyohui.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/soyoung.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/soyouso.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/soyunion.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/soyx123.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/sozdata.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -84437,7 +84396,6 @@
 [/synykj.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/syobserve.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/syoits.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/syoker.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/syoseo.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/syounggroup.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/sypglass.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -87207,7 +87165,6 @@
 [/tianmumusic.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/tianmunews.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/tianmupe.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/tiannbo.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/tiannilaw.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/tianning.xyz/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/tianninghr.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -89169,13 +89126,11 @@
 [/tuipear.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/tuipinpai.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/tuiplay.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/tuirice.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/tuishao.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/tuishark.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/tuishubang.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/tuishujun.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/tuisnake.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/tuistone.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/tuitiger.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/tuitui.info/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/tuitui99.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -89716,7 +89671,6 @@
 [/tzwdsoft.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/tzwpco.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/tzxingtang.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/tzxwzx.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/tzyiyuantuan.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/tzyongda.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/tzyun.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -92705,7 +92659,6 @@
 [/weaoo.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/weapp.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/weapp.me/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/weareing.store/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/wearemanner.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/weareqy.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/wearesellers.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -92858,7 +92811,6 @@
 [/wedev.cool/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/wedeveloper.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/wedfairy.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/wedn.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/wedoany.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/wedoctor.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/wedoexpress.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -96502,7 +96454,6 @@
 [/xeeok.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/xefan.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/xege.org/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/xegymyb.xyz/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/xehedu.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/xeknow.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/xeltek-cn.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -99362,7 +99313,6 @@
 [/xtw-system.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/xtwzyx.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/xtx6.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/xtxbemp.xyz/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/xtxcm.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/xtxh.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/xtxnxk.sbs/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -99401,7 +99351,6 @@
 [/xuanruanjian.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/xuanshitou.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/xuanshu.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/xuanshu.org/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/xuansiwei.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/xuantaikeji.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/xuanteng.org/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -105065,7 +105014,6 @@
 [/yzj.cc/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/yzja.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/yzjb.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/yzjdgs88.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/yzjj120.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/yzjjw.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/yzjob.net/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -105895,7 +105843,6 @@
 [/zgjtb.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/zgjxcad.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/zgjxjjw.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/zgjymg.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/zgjzy.org/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/zgkao.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/zgkashi.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
@@ -108708,7 +108655,6 @@
 [/znzyf.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/zo-station.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/zoassetmanagement.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
-[/zobmxcfw.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/zocai.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/zocolor.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
 [/zocoxx.com/]h3://223.5.5.5/dns-query https://doh.pub/dns-query https://doh.360.cn/dns-query
